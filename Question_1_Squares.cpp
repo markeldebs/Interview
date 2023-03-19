@@ -30,6 +30,6 @@ int main() {
     return 0;
 }
 
-// The function get_squares takes the dimensions n and m of the rectangular piece of paper and returns a vector of pairs representing 
-// the squares that can be made out of it. The main program prompts the user to enter the dimensions, 
-// calls the function to get the squares, and prints them to the console.
+// The function get_squares takes the dimensions n and m of the rectangular piece of paper and returns a vector of pairs representing the squares that can be made out of it. 
+// The main program prompts the user to enter the dimensions, calls the function to get the squares, and prints them to the console.
+
